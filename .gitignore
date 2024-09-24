@@ -1,0 +1,23 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+# [Bb]uild/
+!Builds/WebGL/**
+[Uu]ser[Ss]ettings/
+[Ll]ogs/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# Mac OS files
+.DS_Store
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
